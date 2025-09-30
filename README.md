@@ -1,1 +1,1 @@
-Questo repository ha l'unico scopo di fornire link per usare le immagini nei miei temi di Vesktop
+Just to allow linking of these images to my vesktop theme
